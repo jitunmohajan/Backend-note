@@ -176,6 +176,8 @@ step 11: yarn add -D eslint-config-prettier
 
 # husky setup
 
+>> before setup push your project on github otherwise it will not work properly
+
 step 1: 
 ```bash
 yarn add husky --dev
